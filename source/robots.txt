@@ -1,0 +1,15 @@
+User-agent: *
+Allow: /
+Allow: /archives/
+Allow: /categories/
+Allow: /tags/
+Allow: /background
+Allow: /css
+Allow: /img
+Allow: /js
+Allow: /search
+Allow: /search/index.html
+Allow: /index.html
+Allow: /search.xml
+Sitemap: http://doublekill.me/sitemap.xml
+Sitemap: http://doublekill.me/baidusitemap.xml
